@@ -1,3 +1,3 @@
 # BateMao-Card-game
-# dfadas
+  # dfadas
 Card game applying concepts of dynamic memory allocation in C
